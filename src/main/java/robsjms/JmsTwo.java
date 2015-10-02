@@ -39,7 +39,7 @@ public class JmsTwo {
         subscriber.stopListening();
         subscriber1.stopListening();
 
-        System.out.println("Exiting");
+        System.out.println("some text here");
         System.exit(0); // Force exit
 
 

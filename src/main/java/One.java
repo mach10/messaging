@@ -8,10 +8,7 @@
 public class One {
 
 
-    public static void main(String... args){
-        One.speak("hello Derek");
-    }
-    
+
     public static void speak(String x){
         System.out.println("app says: "+x);
     }
